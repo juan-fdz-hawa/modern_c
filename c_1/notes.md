@@ -1,0 +1,3 @@
+- C Standard vs C Platform.
+- Warnings should always be turned on when compiling `-Wall`.
+- `clang` warnings tend to be way more informative than `gcc`.
